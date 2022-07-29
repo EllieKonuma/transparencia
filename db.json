@@ -1,7 +1,41 @@
 {
-  "noticias": [
-    { "id": 1, "title": "ser trans é legal", "conteúdo": "blablablablablbalblablabla" },
-    { "id": 2, "title": "Post 2" }
+  "posts": [
+    {
+      "id": "1",
+      "authorName": "Jonas Maria",
+      "authorPic": "https://yt3.ggpht.com/-4vtbeqanrhihlYb3E8h08XT_yTIDm1s4MJ-bRTcclBzHnqehmQ1ZVU5PNbwfzW4gyfgx-CDSg=s900-c-k-c0x00ffffff-no-rj",
+      "title": "TUDO sobre MATRIX como alegoria TRANS"
+    },
+    {
+      "id": "2",
+      "authorName": "Bryanna Nasck",
+      "authorPic": "https://pbs.twimg.com/profile_images/1532423397535322113/eqSG7w6t_400x400.jpg",
+      "title": "blub"
+    },
+    {
+      "id": "3",
+      "authorName": "Cup",
+      "authorPic": "https://d1fdloi71mui9q.cloudfront.net/R4kk1sRRJ27C8FWpeUgg_9y85p4YanoU08ljA",
+      "title": "TUDO sobre MATRIX como alegoria TRANS"
+    },
+    {
+      "id": "4",
+      "authorName": "Isabel Brandão",
+      "authorPic": "https://pbs.twimg.com/media/FYMcNH7UIAsWw5t.jpg",
+      "title": "TUDO sobre MATRIX como alegoria TRANS"
+    },
+    {
+      "id": "5",
+      "authorName": "Lucca Najar",
+      "authorPic": "https://yt3.ggpht.com/Vsf0nTvYxC9OCE6lVjqNKmYoVV0NFN-FdJfQ5ll-4iIeLy9ZkYHfzGf04Yv1nh2n8MUng3HLTsM=s900-c-k-c0x00ffffff-no-rj",
+      "title": "TUDO sobre MATRIX como alegoria TRANS"
+    },
+    {
+      "id": "6",
+      "authorName": "Natalia Rosa",
+      "authorPic": "https://yt3.ggpht.com/uTwpofAmDSUmZeyKhezBDEHYiXq28p7ZdeP7HqEFc6WD6TWZ3vYkcMpBed2KSxoe0Nc5ml6oAQ=s900-c-k-c0x00ffffff-no-rj",
+      "title": "TUDO sobre MATRIX como alegoria TRANS"
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
