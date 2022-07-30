@@ -1,45 +1,91 @@
 {
   "posts": [
     {
-      "id": "1",
+      "id": 1,
+      "authorId": 1,
       "authorName": "Jonas Maria",
       "authorPic": "https://yt3.ggpht.com/-4vtbeqanrhihlYb3E8h08XT_yTIDm1s4MJ-bRTcclBzHnqehmQ1ZVU5PNbwfzW4gyfgx-CDSg=s900-c-k-c0x00ffffff-no-rj",
-      "title": "TUDO sobre MATRIX como alegoria TRANS"
+      "title": "Tudo Sobre Matrix Como Alegoria Trans",
+      "intro": "Em 2020, Lilly Wachowski, no clube de filmes da Netflix, diz que Matrix é uma alegoria trans. Nesse vídeo, então, farei uma análise do filme buscando identificar possíveis paralelos e simbolismos que possam remeter à questão trans.",
+      "thumbnail": "https://i3.ytimg.com/vi/u-5w4Df6Xk4/maxresdefault.jpg"
     },
     {
-      "id": "2",
+      "id": 2,
+      "authorId": 2,
       "authorName": "Bryanna Nasck",
       "authorPic": "https://pbs.twimg.com/profile_images/1532423397535322113/eqSG7w6t_400x400.jpg",
-      "title": "blub"
+      "title": "Eu Ainda Sou Não Binária?",
+      "intro": "Conteúdo que mergulha em reflexões de como foi minha vida nestes últimos 10 anos sendo uma pessoa não-binária e tendo uma vida pública.",
+      "thumbnail": "https://i3.ytimg.com/vi/IWwGB099-rg/maxresdefault.jpg"
     },
     {
-      "id": "3",
+      "id": 3,
+      "authorId": 3,
       "authorName": "Cup",
       "authorPic": "https://d1fdloi71mui9q.cloudfront.net/R4kk1sRRJ27C8FWpeUgg_9y85p4YanoU08ljA",
-      "title": "TUDO sobre MATRIX como alegoria TRANS"
+      "title": "O Que Significa ser Agenero",
+      "intro": "Expandindo o “+” da nossa sigla para falar sobre pessoas agênero. Você já ouviu falar dessa identidade? O que você conhece sobre ela? Montamos um guia inicial para entendê-la melhor e torná-la mais visível dentro da nossa bandeira!",
+      "thumbnail": "https://i3.ytimg.com/vi/Z31NAJMOOlQ/maxresdefault.jpg"
     },
     {
-      "id": "4",
+      "id": 4,
+      "authorId": 4,
       "authorName": "Isabel Brandão",
       "authorPic": "https://pbs.twimg.com/media/FYMcNH7UIAsWw5t.jpg",
-      "title": "TUDO sobre MATRIX como alegoria TRANS"
+      "title": "Capitalismo Meio Ambiente e Saúde Mental",
+      "intro": "Uma discussão sobre como o estado do mundo pode afetar nossa saúde mental e a incompatibilidade do capitalismo com o meio ambiente.",
+      "thumbnail": "https://i3.ytimg.com/vi/K__udVYh080/maxresdefault.jpg"
     },
     {
-      "id": "5",
+      "id": 5,
+      "authorId": 5,
       "authorName": "Lucca Najar",
       "authorPic": "https://yt3.ggpht.com/Vsf0nTvYxC9OCE6lVjqNKmYoVV0NFN-FdJfQ5ll-4iIeLy9ZkYHfzGf04Yv1nh2n8MUng3HLTsM=s900-c-k-c0x00ffffff-no-rj",
-      "title": "TUDO sobre MATRIX como alegoria TRANS"
+      "title": "Casal Trans Grávidos",
+      "intro": "Entrevista com a Ellen e o Rodrigo que são um casal trans, contando um pouco sobre sua família e também sobre o processo de gravidez do casal, como decidiram engravidar, as questões médicas e jurídicas envolvidas.",
+      "thumbnail": "https://i3.ytimg.com/vi/6lTqC_9tInI/maxresdefault.jpg"
     },
     {
-      "id": "6",
+      "id": 6,
+      "authorId": 6,
       "authorName": "Natalia Rosa",
       "authorPic": "https://yt3.ggpht.com/uTwpofAmDSUmZeyKhezBDEHYiXq28p7ZdeP7HqEFc6WD6TWZ3vYkcMpBed2KSxoe0Nc5ml6oAQ=s900-c-k-c0x00ffffff-no-rj",
-      "title": "TUDO sobre MATRIX como alegoria TRANS"
+      "title": "Cirurgia de Feminização Facial",
+      "intro": "Série de informações e curiosidades sobre cirurgia de feminização facial e minhas experiências pessoais com ela.",
+      "thumbnail": "https://i3.ytimg.com/vi/wUiptVYsSzc/maxresdefault.jpg"
     }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "authors": [
+    {
+      "id": 1,
+      "name": "Jonas Maria",
+      "pic": "https://yt3.ggpht.com/-4vtbeqanrhihlYb3E8h08XT_yTIDm1s4MJ-bRTcclBzHnqehmQ1ZVU5PNbwfzW4gyfgx-CDSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": 2,
+      "name": "Bryanna Nasck",
+      "pic": "https://pbs.twimg.com/profile_images/1532423397535322113/eqSG7w6t_400x400.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Cup",
+      "pic": "https://d1fdloi71mui9q.cloudfront.net/R4kk1sRRJ27C8FWpeUgg_9y85p4YanoU08ljA"
+    },
+    {
+      "id": 4,
+      "name": "Isabel Brandão",
+      "pic": "https://pbs.twimg.com/media/FYMcNH7UIAsWw5t.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Lucca Najar",
+      "authorPic": "https://yt3.ggpht.com/Vsf0nTvYxC9OCE6lVjqNKmYoVV0NFN-FdJfQ5ll-4iIeLy9ZkYHfzGf04Yv1nh2n8MUng3HLTsM=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": 6,
+      "name": "Natalia Rosa",
+      "pic": "https://yt3.ggpht.com/uTwpofAmDSUmZeyKhezBDEHYiXq28p7ZdeP7HqEFc6WD6TWZ3vYkcMpBed2KSxoe0Nc5ml6oAQ=s900-c-k-c0x00ffffff-no-rj"
+    }
   ],
   "profile": {
     "name": "typicode"
